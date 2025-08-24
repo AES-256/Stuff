@@ -1,0 +1,55 @@
+nala
+micro
+fastfetch
+minimodem
+kleopatra
+wine
+btop
+htop
+cups
+ffmpeg
+vlc
+wireshark
+gimp
+zenmap
+wifite
+qbittorrent
+audacity
+libreoffice
+qsstv
+auditd (file logger)
+audispd-plugins (plugins of audit)
+kiwix
+kiwix-tools
+k3b
+wget
+vivaldi browser
+obs-studio
+kdenlive
+angry ip scanner
+copyparty
+pdfarranger
+xournalpp
+okular
+remmina
+remmina-plugin-rdp
+remmina-plugin-vnc
+cryptsetup
+flatpak
+gnome-disk-utility
+network packet sender
+kleopatra
+nala
+minimodem
+tor
+wine
+zen-browser
+tesseract-ocr
+tesseract-ocr-fas
+tesseract-ocr-per
+tesseract-ocr-all
+gimagereader
+
+
+
+luks
